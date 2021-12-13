@@ -1,5 +1,6 @@
 # learningpython
-#Randomize a password using list comprehension that starts with XXX### where X can be any english alphabet and # can be any digit
+# Randomize a password using list comprehension that starts with XXX
+### where X can be any english alphabet and # can be any digit
 
 alphabet='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
 digits='0123456789'
